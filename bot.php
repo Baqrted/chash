@@ -30,7 +30,7 @@ try {
 					if($text == '/start'){
               $bot->sendMessage([
                   'chat_id'=>$chatId,
-                  'text'=>"Welcome . \n - To Your IG Bussines Tool. \n\n By ~ @uuunr",
+                  'text'=>"Welcome . \n - To Your IG Bussines Tool. \n\n By ~ @sshtml",
                   'reply_markup'=>json_encode([
                       'inline_keyboard'=>[
                           [['text'=>'Add Accounts','callback_data'=>'login']],
