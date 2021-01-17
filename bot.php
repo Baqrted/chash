@@ -426,7 +426,7 @@ try {
           	  $bot->editMessageText([
                       'chat_id'=>$chatId,
                       'message_id'=>$mid,
-                      'text'=>"Welcome . \n - To Your IG Bussines Tool. \n\n By ~ @uuunr",
+                      'text'=>"Welcome . \n - To Your IG Bussines Tool. \n\n By ~ @sshtml",
                   'reply_markup'=>json_encode([
                       'inline_keyboard'=>[
                           [['text'=>'Add Accounts','callback_data'=>'login']],
@@ -446,7 +446,7 @@ try {
           	  $bot->editMessageText([
                       'chat_id'=>$chatId,
                       'message_id'=>$mid,
-                      'text'=>"Welcome . \n - To Your IG Bussines Tool. \n\n By ~ @uuunr",
+                      'text'=>"Welcome . \n - To Your IG Bussines Tool. \n\n By ~ @sshtml",
                       'reply_markup'=>json_encode([
                       'inline_keyboard'=>[
                           [['text'=>'Add Accounts','callback_data'=>'login']],
